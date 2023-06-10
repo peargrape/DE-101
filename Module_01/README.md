@@ -8,5 +8,5 @@ Draw high-level architecture of analytic solution for a business
 ![3-stage architecture solution](Architecture-model_Karavaev.png)
 
 ## Task 3
-Create a dashboard using a given table
+Create a dashboard using a given table. [Link on the dashboard](https://github.com/peargrape/DE-101/blob/main/Module_01/Sample_Superstore_Karavaev.xlsx)
 ![Screenshot of a dashboard](Supersales-dashboard_peargrape.png)
